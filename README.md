@@ -17,3 +17,9 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+// beim starten von VSC
+cd blank-app
+venv\Scripts\activate
+streamlit run streamlit_app.py
